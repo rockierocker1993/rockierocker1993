@@ -1,6 +1,6 @@
 
 
-<h2> Hey there! I'm Ikhsan Fadly, I'm Software engineer from Indonesian.</h2>
+<h2> Hey there! I'm Ikhsan Fadly, I'm Software engineer from Indonesia.</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rockierocker1993/rockierocker1993/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
