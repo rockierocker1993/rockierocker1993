@@ -13,6 +13,7 @@
 - 🤓 &nbsp; Always learning new things.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 - 👨‍💻 &nbsp; I'm open for freelance and part time job
+- 🌎 &nbsp; Check my [resume](https://raw.githubusercontent.com/rockierocker1993/rockierocker1993/main/CV%2006-10-2023.pdf)
 - 📫 &nbsp; How to reach me <b>rockierocker1993@gmail.com</b>
 
 <h3>🛠 Tech Stack</h3>
