@@ -14,7 +14,11 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 - 👨‍💻 &nbsp; I'm open for freelance and part time job
 - 🌎 &nbsp; Check my [resume](https://raw.githubusercontent.com/rockierocker1993/rockierocker1993/main/CV%2006-10-2023.pdf)
-- 📫 &nbsp; How to reach me <b>rockierocker1993@gmail.com</b>
+  
+<h3> 📫 &nbsp; How to reach me </h3>
+
+  - Email : <b>rockierocker1993@gmail.com</b> 
+  - WhatsApp : [081247984970](https://api.whatsapp.com/send?phone=6281247984970)
 
 <h3>🛠 Tech Stack</h3>
 
@@ -25,7 +29,7 @@
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=rockierocker1993&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<!-- ![Ikhsan Fadly Github Stats](https://github-readme-stats.vercel.app/api?username=rockierocker1993&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rockierocker1993&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ikhsan Fadly Github Stats">
 
 </br>
